@@ -1,0 +1,17 @@
+Home.body{
+    text-align: center;
+}
+
+.two-column-list{
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+
+.two-column-list li{
+    margin-bottom: 2px;
+}
+p{
+    text-align: center;
+    color: brown;
+}
